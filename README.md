@@ -17,5 +17,11 @@ npx create-next-app --example https://github.com/VladADragos/next-cepth  next-ce
 or
 
 ```bash
-yarn create next-app --example https://github.com/VladADragos/next-cepth  next-tecch-app
+yarn create next-app --example https://github.com/VladADragos/next-cepth  next-cepth-app
+```
+
+or
+
+```bash
+git clone https://github.com/VladADragos/next-cepth.git  next-cepth-app
 ```
