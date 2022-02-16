@@ -13,7 +13,7 @@ const Index = () => (
 		<Hero />
 		<Main>
 			<Text>
-				Example repository of <Code>Next.js</Code> + <Code>chakra-ui</Code> +{' '}
+				Example repository of <Code>Next.js</Code> + <Code>chakra-ui</Code> + +
 				<Code>TypeScript</Code>.
 			</Text>
 
