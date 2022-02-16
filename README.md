@@ -1,21 +1,21 @@
 # Nextjs template with
 
-[**T**ypescript](https://www.typescriptlang.org/) [**E**slint](https://eslint.org/) [**C**ypress](https://www.cypress.io/) [**C**hakra UI](https://chakra-ui.com/) and [**H**usky](https://typicode.github.io/husky/#/)
+[**C**ypress](https://www.cypress.io/) [**C**hakra UI](https://chakra-ui.com/) [**E**slint](https://eslint.org/) [**P**rettier](https://prettier.io/) [**T**ypescript](https://www.typescriptlang.org/) and [**H**usky](https://typicode.github.io/husky/#/)
 
 ## Usage
 
 ```bash
-pnpm dlx create-next-app --example https://github.com/VladADragos/next-tecch  next-tecch-app
+pnpm dlx create-next-app --example https://github.com/VladADragos/next-cepth  next-cepth-app
 ```
 
 or
 
 ```bash
-npx create-next-app --example https://github.com/VladADragos/next-tecch  next-tecch-app
+npx create-next-app --example https://github.com/VladADragos/next-cepth  next-cepth-app
 ```
 
 or
 
 ```bash
-yarn create next-app --example https://github.com/VladADragos/next-tecch  next-tecch-app
+yarn create next-app --example https://github.com/VladADragos/next-cepth  next-tecch-app
 ```
